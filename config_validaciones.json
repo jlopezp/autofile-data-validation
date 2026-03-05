@@ -1,0 +1,30 @@
+{
+    "Negocio1 - Rebaja": [
+        "Revisión de estructura del archivo (formatos)",
+        "Revisar y contar los registros con todos los estados",
+        "Revisar dividendos duplicados en el mismo periodo",
+        "Revisar montos donde superan las 20 UF",
+        "Revisar los cuotones",
+        "Revisar periodos en el archivo",
+        "Revisar existencia de RUT y número de operación",
+        "Revisión de cuotas pagadas (pagos retroactivos)",
+        "Revisión de estados de vigencia y saldo cuotas",
+        "Generar reporte de procesos anteriores",
+        "Generar archivos de resultado y periodo",
+        "Proceso especial de separación (6 meses)",
+        "Generar informes desde archivos de nóminas"
+    ],
+    "Negocio2 - Clasificaciones": [
+        "Revisión de estructura de archivo (formato)",
+        "Revisar y contar los registros con todos los estados",
+        "Cuadrar columnas 12,13,16 (monto crédito)",
+        "Cuadrar columnas 14,15 (cuotas)",
+        "Revisión de clasificados y rechazados",
+        "Revisión existencia de clasificados en base de datos",
+        "Revisión de beneficiados DS15 (pendiente)",
+        "Clientes sobre 1200 UF (otra lista)",
+        "Clientes sobre 1600 UF (pendiente, DS15)",
+        "Asignación de % beneficio según criterios",
+        "Generar informe Excel con clasificados y rechazados"
+    ]
+}

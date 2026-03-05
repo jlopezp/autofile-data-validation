@@ -1,0 +1,10 @@
+os
+tkinter
+filedialog, 
+messagebox, 
+ttk
+qlalchemy 
+pyodbc
+json
+openpyxl
+datetime
