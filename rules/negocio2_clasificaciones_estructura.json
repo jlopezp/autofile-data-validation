@@ -1,0 +1,138 @@
+[
+  {
+    "ID": 1,
+    "Campo": "Rut",
+    "Tipo de dato": "Numeric",
+    "Largo": 10,
+    "Decimales": 0,
+    "Ejemplo": "10222333"
+  },
+  {
+    "ID": 2,
+    "Campo": "DV",
+    "Tipo de dato": "Char",
+    "Largo": 1,
+    "Decimales": 0,
+    "Ejemplo": "K"
+  },
+  {
+    "ID": 3,
+    "Campo": "Nombre",
+    "Tipo de dato": "Varchar",
+    "Largo": 50,
+    "Decimales": 0,
+    "Ejemplo": "Juan Carlos"
+  },
+  {
+    "ID": 4,
+    "Campo": "Apellido Paterno",
+    "Tipo de dato": "Varchar",
+    "Largo": 32,
+    "Decimales": 0,
+    "Ejemplo": "Pérez"
+  },
+  {
+    "ID": 5,
+    "Campo": "Apellido Materno",
+    "Tipo de dato": "Varchar",
+    "Largo": 32,
+    "Decimales": 0,
+    "Ejemplo": "González"
+  },
+  {
+    "ID": 6,
+    "Campo": "Región",
+    "Tipo de dato": "Numeric",
+    "Largo": 2,
+    "Decimales": 0,
+    "Ejemplo": "15"
+  },
+  {
+    "ID": 7,
+    "Campo": "Comuna",
+    "Tipo de dato": "Numeric",
+    "Largo": 6,
+    "Decimales": 0,
+    "Ejemplo": "15102"
+  },
+  {
+    "ID": 8,
+    "Campo": "Entidad Financiera",
+    "Tipo de dato": "Numeric",
+    "Largo": 3,
+    "Decimales": 0,
+    "Ejemplo": "120"
+  },
+  {
+    "ID": 9,
+    "Campo": "Código Moneda Original (UF)",
+    "Tipo de dato": "Varchar",
+    "Largo": 3,
+    "Decimales": 0,
+    "Ejemplo": "UF"
+  },
+  {
+    "ID": 10,
+    "Campo": "N° de Operación crédito original",
+    "Tipo de dato": "Alfanumerico",
+    "Largo": 12,
+    "Decimales": 0,
+    "Ejemplo": "120000000000"
+  },
+  {
+    "ID": 11,
+    "Campo": "Fecha del crédito",
+    "Tipo de dato": "Datetime",
+    "Largo": 8,
+    "Decimales": 0,
+    "Ejemplo": "10122008"
+  },
+  {
+    "ID": 12,
+    "Campo": "Monto del Crédito",
+    "Tipo de dato": "Decimal",
+    "Largo": 11,
+    "Decimales": 6,
+    "Ejemplo": "12345,123456"
+  },
+  {
+    "ID": 13,
+    "Campo": "Saldo deudor",
+    "Tipo de dato": "Decimal",
+    "Largo": 11,
+    "Decimales": 6,
+    "Ejemplo": "12345,123456"
+  },
+  {
+    "ID": 14,
+    "Campo": "N° Cuotas Total",
+    "Tipo de dato": "Numeric",
+    "Largo": 5,
+    "Decimales": 0,
+    "Ejemplo": "125"
+  },
+  {
+    "ID": 15,
+    "Campo": "Saldo en cuotas",
+    "Tipo de dato": "Numeric",
+    "Largo": 5,
+    "Decimales": 0,
+    "Ejemplo": "100"
+  },
+  {
+    "ID": 16,
+    "Campo": "Monto del Crédito en moneda original",
+    "Tipo de dato": "Decimal",
+    "Largo": 11,
+    "Decimales": 6,
+    "Ejemplo": "12345,123456"
+  },
+  {
+    "ID": 17,
+    "Campo": "Monto del dividendo en moneda original",
+    "Tipo de dato": "Decimal",
+    "Largo": 11,
+    "Decimales": 6,
+    "Ejemplo": "123,123456"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "ID": 1,
+    "Campo": "Entidad Financiera",
+    "Tipo de dato": "Numeric",
+    "Largo": 3,
+    "Decimales": 0,
+    "Ejemplo": "120"
+  },
+  {
+    "ID": 2,
+    "Campo": "Rut",
+    "Tipo de dato": "Numeric",
+    "Largo": 10,
+    "Decimales": 0,
+    "Ejemplo": "11222333"
+  },
+  {
+    "ID": 3,
+    "Campo": "DV",
+    "Tipo de dato": "Char",
+    "Largo": 1,
+    "Decimales": 0,
+    "Ejemplo": "K"
+  },
+  {
+    "ID": 4,
+    "Campo": "Código Moneda Original (UF)",
+    "Tipo de dato": "Varchar",
+    "Largo": 3,
+    "Decimales": 0,
+    "Ejemplo": "UF"
+  },
+  {
+    "ID": 5,
+    "Campo": "N° de Operación",
+    "Tipo de dato": "Alfanumerico",
+    "Largo": 12,
+    "Decimales": 0,
+    "Ejemplo": "12345678"
+  },
+  {
+    "ID": 6,
+    "Campo": "N° Cuota",
+    "Tipo de dato": "Numeric",
+    "Largo": 5,
+    "Decimales": 0,
+    "Ejemplo": "123"
+  },
+  {
+    "ID": 7,
+    "Campo": "Mes de la cuota",
+    "Tipo de dato": "Numeric",
+    "Largo": 2,
+    "Decimales": 0,
+    "Ejemplo": "12"
+  },
+  {
+    "ID": 8,
+    "Campo": "Año de la cuota",
+    "Tipo de dato": "Numeric",
+    "Largo": 4,
+    "Decimales": 0,
+    "Ejemplo": "2009"
+  },
+  {
+    "ID": 9,
+    "Campo": "Monto del dividendo en moneda Original",
+    "Tipo de dato": "Decimal",
+    "Largo": 11,
+    "Decimales": 6,
+    "Ejemplo": "12345,123456"
+  },
+  {
+    "ID": 10,
+    "Campo": "Indicador de estado cuota",
+    "Tipo de dato": "Numeric",
+    "Largo": 1,
+    "Decimales": 0,
+    "Ejemplo": "2"
+  }
+]
+
