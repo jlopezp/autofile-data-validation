@@ -4,6 +4,21 @@ AutoFile is a Python application that automates the validation of financial TXT 
 
 This project was developed to replace manual validation processes and improve data quality control.
 
+## System Architecture
+
+TXT File
+   │
+   ▼
+Data Loader
+   │
+   ▼
+Validation Rules
+   │
+   ▼
+Error Detection
+   │
+   ▼
+Database Storage (SQL Server)
 ## Features
 
 * TXT file structure validation
@@ -58,3 +73,4 @@ python main.py
 
 José López
 Data Analyst / Data Automation
+
